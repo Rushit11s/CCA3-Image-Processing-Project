@@ -1,6 +1,8 @@
 # Computer Vision CCA 3 — Technical Report
 
-**Practical Coding Assignment — Units 3, 4 and 5 | Student ID: 1039**
+**Practical Coding Assignment — Units 3, 4 and 5**
+
+**Name: Rushit Patel | Student ID: 1039**
 
 Notebook: `2. Source Code/Computer_Vision_CCA3_1039.ipynb`
 Environment: Python 3 · Google Colab / Jupyter · NumPy · Matplotlib · OpenCV · scikit-image · scikit-learn · Ultralytics YOLOv8
