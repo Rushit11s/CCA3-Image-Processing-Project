@@ -1,11 +1,11 @@
-# Explanation Video 1039 — narration transcript
+# Explanation Video 1272251039 — narration transcript
 
 Voice: neural text-to-speech (Microsoft "en-IN-PrabhatNeural", male Indian-English, via edge-tts) — synthesized because no
 microphone was available at recording time. Slide visuals are the project's own generated outputs.
-Total duration: ~3 min 48 s, 1280x720 mp4.
+Total duration: ~4 min 02 s, 1280x720 mp4.
 
 Slide 1 — Title (0:00)
-"Hello, and welcome. This is the explanation of my Computer Vision CCA three practical coding assignment, for units three, four and five. Student ID ten thirty nine. The project implements four tasks: image processing, feature extraction and matching, object detection, and video analysis, all in a single notebook that runs on Google Colab and locally."
+"Hello, and welcome. This is the explanation of my Computer Vision CCA three practical coding assignment, for units three, four and five. Student ID: one two seven two two five, one zero three nine. The project implements four tasks: image processing, feature extraction and matching, object detection, and video analysis, all in a single notebook that runs on Google Colab and locally."
 
 Slide 2 — Repository structure (0:29)
 "The repository layout is on screen. The original inputs folder has the images and the video. The source code folder has the notebook. Generated figures live in the outputs folders for each task, the technical report documents everything, and the explanation video is what you are watching now. The README explains how to reproduce the project."

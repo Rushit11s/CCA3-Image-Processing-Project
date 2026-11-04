@@ -2,9 +2,9 @@
 
 **Practical Coding Assignment — Units 3, 4 and 5**
 
-**Name: Rushit Patel | Student ID: 1039**
+**Name: Rushit Patel | Student ID: 1272251039**
 
-Notebook: `2. Source Code/Computer_Vision_CCA3_1039.ipynb`
+Notebook: `2. Source Code/Computer_Vision_CCA3_1272251039.ipynb`
 Environment: Python 3 · Google Colab / Jupyter · NumPy · Matplotlib · OpenCV · scikit-image · scikit-learn · Ultralytics YOLOv8
 
 ![Full pipeline diagram — config, four tasks, outputs and deliverables](pipeline_diagram.png)
@@ -18,7 +18,7 @@ Environment: Python 3 · Google Colab / Jupyter · NumPy · Matplotlib · OpenCV
 3. Detect faces and generic objects with classical and deep-learning methods.
 4. Analyse video with frame differencing, background subtraction and optical-flow tracking.
 
-All experiments are reproducible: the notebook is seeded (`random`/`numpy` seed 1039) and every figure is auto-saved to `3. Outputs/Task N/`.
+All experiments are reproducible: the notebook is seeded (`random`/`numpy` seed 1272251039) and every figure is auto-saved to `3. Outputs/Task N/`.
 
 ---
 
@@ -128,5 +128,5 @@ A single configuration cell in the notebook auto-detects Colab vs. local executi
 
 1. `pip install -r requirements.txt` (or the pip cell in the notebook for Colab).
 2. Place `original.jpg`, `second.jpg`, `original_video.mp4` in `1. Original Inputs/`.
-3. Run **all** cells of `2. Source Code/Computer_Vision_CCA3_1039.ipynb` top-to-bottom.
+3. Run **all** cells of `2. Source Code/Computer_Vision_CCA3_1272251039.ipynb` top-to-bottom.
 4. Compare figures with the pre-generated results in `3. Outputs/Task 1–4/`.

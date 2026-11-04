@@ -96,4 +96,4 @@ flowchart LR
 - [ ] Notebook executed top-to-bottom before recording (no pip-wait pauses)
 - [ ] Keep the PSNR/SSIM table, invariance bar chart and one watershed figure in frame — these carry the "quantified results" discussion
 - [ ] Mention where each figure in `3. Outputs/` comes from while scrolling
-- [ ] Export as MP4/MOV into this folder and rename to include your ID, e.g. `Explanation Video 1039.mp4`
+- [ ] Export as MP4/MOV into this folder and rename to include your ID, e.g. `Explanation Video 1272251039.mp4`
