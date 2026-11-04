@@ -1,0 +1,10 @@
+# Computer Vision CCA-3 — Python dependencies
+# Pins keep local (pip) behavior identical to Google Colab,
+# where OpenCV 4.x and NumPy 1.x/2.x are pre-installed.
+numpy<3
+matplotlib
+opencv-python<5
+scikit-image
+scikit-learn
+ultralytics
+jupyter
